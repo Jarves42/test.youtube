@@ -55,7 +55,7 @@ public class TestClass {
     	boolean decision = pathFindHelper(mt,sx-1,sy-1,mj,al,1,xcor,ycor);
     	
     	if(decision ==true){
-    		System.out.println("YES");
+    		//System.out.println("YES");
     		System.out.println(al.size());
     		
     		for(int p=0;p<al.size();p++){
